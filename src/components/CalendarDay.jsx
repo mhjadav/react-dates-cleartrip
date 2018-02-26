@@ -97,7 +97,11 @@ export default class CalendarDay extends React.Component {
       },
     } = this.props;
 
-    if (!day) return <td />;
+     
+    if(dayOfWeek == 5 || dayOfWeek == 6) {
+      daySizeStyles["background-color"]= "#ddeeff";
+    }
+    if (!day) return <td style={daySizeStyles} />;
 
     const className = cx('CalendarDay', {
       'CalendarDay--outside': isOutsideDay,
