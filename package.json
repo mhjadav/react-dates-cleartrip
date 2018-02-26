@@ -1,6 +1,6 @@
 {
-  "name": "react-dates",
-  "version": "12.7.0",
+  "name": "react-dates-cleartrip",
+  "version": "12.7.0.1",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
   "scripts": {
@@ -39,14 +39,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/react-dates.git"
+    "url": "git+https://github.com/mhjadav/react-dates-cleartrip.git"
   },
-  "author": "Maja Wichrowska <maja.wichrowska@airbnb.com>",
-  "license": "MIT",
+  "author": "Mahipat mj@mojaave.com",
   "bugs": {
-    "url": "https://github.com/airbnb/react-dates/issues"
+    "url": "https://github.com/mhjadav/react-dates-cleartrip/issues"
   },
-  "homepage": "https://github.com/airbnb/react-dates#readme",
+  "homepage": "https://github.com/mhjadav/react-dates-cleartrip#readme",
   "devDependencies": {
     "@storybook/addon-info": "^3.2.9",
     "@storybook/addon-options": "^3.2.6",
