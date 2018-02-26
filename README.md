@@ -1,3 +1,10 @@
+# react-dates-cleartrip is same as react dates with small customization, for single date picker -
+
+* Like Highlight date between start date and end date 
+* Change background color for week ends
+* Chage in day text header
+
+
 # react-dates <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 [![Build Status][travis-svg]][travis-url]
