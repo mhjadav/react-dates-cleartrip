@@ -5,7 +5,7 @@
 * Chage in day text header
 
 
-# react-dates <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+# react-dates
 
 [![Build Status][travis-svg]][travis-url]
 [![dependency status][deps-svg]][deps-url]
@@ -13,7 +13,6 @@
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
-[![npm badge][npm-badge-png]][package-url]
 
 > An easily internationalizable, mobile-friendly datepicker library for the web.
 
